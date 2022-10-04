@@ -5,7 +5,6 @@
 
 template <typename Type>
 class LinearList {  //a[0]存数据
-
     Type* a;
     int current_length;
     int space;
